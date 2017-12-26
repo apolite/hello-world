@@ -1,2 +1,2 @@
 # hello-world
-This is where I have begun to use this software. 
+This is where I have begun to use the software. 
